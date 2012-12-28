@@ -16,6 +16,7 @@ To simulate a 80x86 structure this board is provided with:
 
 ### Additional devices:
 
+* Real Clock: 16 Mhz frequency 
 * Frequency divider: 14-BIT asynchronous binary counters
 * Inverter: Hex inverters (INV)
 * Demultiplexer: 4-Line to 16-Line
