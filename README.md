@@ -29,7 +29,7 @@ To simulate a 80x86 structure this board is provided with:
 ### The hardware design is licensed under a Creative Common Atribution-ShareAlike:
 ![Creative Commons License](http://i.creativecommons.org/l/by-sa/3.0/88x31.png)
 
-Trainingduino by [Oscar Ramirez Jimenez, and Juan Antonio Fernandez Madrigal and Cipriano Galindo Andrades as project directors](http://github.com/tuxskar/trainingduino/wiki)
+Trainingduino by [Oscar Ramirez Jimenez, and Juan Antonio Fernandez Madrigal and Cipriano Galindo Andrades as supervisors](http://github.com/tuxskar/trainingduino/wiki)
 
 is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/deed.en_US)
 
