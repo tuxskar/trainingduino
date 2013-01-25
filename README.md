@@ -7,12 +7,12 @@ This shield board has been made to simulate a 80x86 structure, using as CPU an A
 ## Devices
 
 To simulate a 80x86 structure this board is provided with:
-* Intel 8251: Universal Synchronous/Asynchronous Receiver/Transmitter (USART)
-* Intel 8254: Programmable Interval Timer (PIT)
-* Intel 8255: Programmable Peripheral Interface (PPI)
-* Intel 8259: Programmable Interrupt Controller (PIC)
-* ADC: Analog-to-digital converter
-* DAC: Digital-to-analog converter
+* [Intel 8251: Universal Synchronous/Asynchronous Receiver/Transmitter (USART)](http://en.wikipedia.org/wiki/Intel_8251)
+* [Intel 8254: Programmable Interval Timer (PIT)](http://en.wikipedia.org/wiki/Intel_8254)
+* [Intel 8255: Programmable Peripheral Interface (PPI)](http://en.wikipedia.org/wiki/Intel_8255)
+* [Intel 8259: Programmable Interrupt Controller (PIC)](http://en.wikipedia.org/wiki/Intel_8259)
+* [ADC: Analog-to-digital converter](http://en.wikipedia.org/wiki/Analog-to-digital_converter)
+* [DAC: Digital-to-analog converter](http://en.wikipedia.org/wiki/Digital-to-analog_converter)
 
 ### Additional devices:
 
